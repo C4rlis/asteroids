@@ -1,1 +1,1 @@
-This might work have to test because for some reason pygame has issues with my system 
+really simple asteroid game to try pygame. Might be not great
